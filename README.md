@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Studying Software Engineering from MCS,NUST <br>👯 I’m looking to collaborate on blockchain development<br>🤝 I’m looking for help with blockchain development and AI<br>🌱 I’m currently learning threeJS<br>💬 Ask me about the MERN stack
+🔭 Studying Software Engineering from MCS,NUST <br>👯 I’m looking to collaborate on blockchain development<br>🤝 I’m looking for help with blockchain development and AI<br>🌱 I’m currently learning threeJS<br>💬 Ask me about MERN stack
 
 ## 🌐 Socials:
 
