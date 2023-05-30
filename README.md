@@ -2,8 +2,7 @@
 
 🔭 Studying Software Engineering from MCS,NUST <br>👯 I’m looking to collaborate on Prompt engineering <br>🤝 I’m looking for help with prompt engineering and AI<br>🌱 I’m currently learning threeJS<br>💬 Ask me about MERN stack
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseeb.ulhassan.522) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeeb_ul_hassan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-ul-hassan)
+## 🌐 Socials:[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseeb.ulhassan.522) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeeb_ul_hassan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-ul-hassan)
 [![Portfolio](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://haseeb-ul-hassan.netlify.app)
 
 # 💻 Tech Stack:
