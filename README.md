@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Studying Software Engineering from MCS-NUST <br>👯 I’m looking to collaborate on React Projects<br>🤝 I’m looking for help with prompt engineering and Machine learning<br>🌱 I’m currently learning Supervised Machine Learning<br>💬Ask me about MERN stack
+🔭 Studying Software Engineering from MCS-NUST <br>👯 I’m looking to collaborate on React Projects<br>🤝 I’m looking for help with prompt engineering and Machine learning<br>🌱 I’m currently learning Supervised Machine Learning<br>💬Ask me about the MERN stack
 
 ## 🌐 Socials: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseeb.ulhassan.522) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeeb_ul_hassan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-ul-hassan) 
 
